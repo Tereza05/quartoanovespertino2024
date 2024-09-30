@@ -1,1 +1,1 @@
-Esse projeto exibe na tela um "ola mundo"
+Esse projeto exibe na tela "ola mundo", "texto1" e "texto2"
